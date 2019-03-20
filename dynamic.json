@@ -1,0 +1,49 @@
+{
+  "basics":{
+    "img":"pic.jpg",
+  "name":"aisha",
+  "contact":"7675982776",
+  "designation":"kothakota"
+
+},
+"career":
+{
+  "info":"i want to become an inspirational person all around the world"
+},
+"education":[
+  {
+    "sno":"1",
+    "institute":"mits",
+    "course":"btech",
+    "yearofpassing":"2021"
+  },
+  {
+    "sno":"2",
+    "institute":"chaitanya",
+    "course":"mpc",
+    "yearofpassing":"2017"
+  },
+  {
+    "sno":"3",
+    "institute":"raghavan",
+    "course":"science",
+    "yearofpassing":"2015"
+  }
+],
+
+
+  "skills":[
+    {
+      "info":"public speaking"
+    },
+    {
+      "info":"c"
+    },
+    {
+    "info": "communication skills"
+    }
+
+  ]
+
+
+}

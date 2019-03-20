@@ -1,0 +1,33 @@
+table {
+  width: 100%;
+  border:2px solid blue;
+}
+
+table th,td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+.profile{
+  background-color: white;
+  display:flex;
+  justify-content: space-around;
+}
+.resume{
+  background-color: skyblue;
+  width: 25%;
+  text-align: center;
+  padding:2%;
+  margin:1%;
+  border-radius: 5%;
+}
+.resume1{
+  width: 65%;
+  background: skyblue;
+  padding:2%;
+  margin:1%;
+  border-radius: 5%;
+}
+img{
+  width:75%;
+
+}
